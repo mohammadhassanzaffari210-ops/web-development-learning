@@ -1,2 +1,3 @@
-# web-development-learning
-My web development learning journey and practice projects.
+About Me:
+Hello! My name is Mohammad Hassan Zaffari.
+I am a Computer Science graduate interested in Information Systems and Web Development.
